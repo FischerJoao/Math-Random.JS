@@ -2,7 +2,7 @@
 Um site que gera números aleatórios entre 1 e 99 , útil para sorteios. 💫
 
 Você pode testar o seu funcionamento aqui: https://devjoaofischer.github.io/Math-Random.JS/
-
+O site ainda não é  responsivo
 
 
 <br>
