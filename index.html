@@ -10,13 +10,15 @@
 </head>
 <body>
     <header>
-        <h1>Gerador de Números</h1>
+        <h1>Gerador de Números <sub>Números entre 1 e 99</sub> </h1>
+       
         <hr>
     </header>
 
     <section>
-        <div id="result">
-
+        <div>
+            <p id="msg">O número aparecerá aqui:</p>
+            <p id="result"></p>
         </div>
 
         <div>
@@ -24,7 +26,14 @@
             <input onclick="apagar()" type="button" value="APAGAR">
         </div>
         <hr>
+        
+        <div id="sorteados">
+
+        </div>
+
     </section>
+
+    <script src="script.js"></script>
 
 </body>
 </html>
